@@ -37,7 +37,7 @@ Como feito anteriormente na tabela de estilo, você pode fazer o uso de crases (
     `Palavra-desejada`
 
     ```
-    Hello, World!
+    Hello, World!!
     Welcome my GitHub
     I hope to contribute my knowledge.
     ```
